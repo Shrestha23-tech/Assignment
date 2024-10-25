@@ -1,0 +1,7 @@
+{
+    "services": [
+        { "name": "Web Development", "description": "Building responsive websites using the latest technologies." },
+        { "name": "Mobile App Development", "description": "Creating user-friendly mobile applications for Android and iOS." },
+        { "name": "Digital Marketing", "description": "Providing SEO and social media marketing to improve your online presence." }
+    ]
+}
